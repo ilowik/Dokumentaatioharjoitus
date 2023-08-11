@@ -1,0 +1,2 @@
+# Dokumentaatioharjoitus
+ohjeita järjestelmädokumentaation laatimiseen.
